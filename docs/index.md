@@ -65,6 +65,6 @@ Archverse项目重建「消失的村落与文化」，此建造非重复，而�
 
 🏃‍ 访问 [MetaDAO 主页](https://metadao.org/)
 
-
+![](https://github.com/GennyZHENG/Archverse/blob/main/docs/image/logo.png)
 
 
