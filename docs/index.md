@@ -25,7 +25,7 @@ Archverse项目重建「消失的村落与文化」，此建造非重复，而�
 
 元宇宙概论：新世界的沉浸与创造
 
-![](https://github.com/GennyZHENG/Archverse/blob/main/docs/image/%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA%E5%85%AC%E5%BC%80%E8%AF%BE.png)
+![image alt](https://raw.githubusercontent.com/GennyZHENG/Archverse/main/docs/image/%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA%E5%85%AC%E5%BC%80%E8%AF%BE.png)
 
 
 ## 👩‍💻👨‍💻 Archverse项目将持续招募志愿者！！！👩‍💻👨‍💻
@@ -66,6 +66,6 @@ Archverse项目重建「消失的村落与文化」，此建造非重复，而�
 
 🏃‍ 访问 [MetaDAO 主页](https://metadao.org/)
 
-![](https://github.com/GennyZHENG/Archverse/blob/main/docs/image/logo.png)
+![image alt](https://raw.githubusercontent.com/GennyZHENG/Archverse/main/docs/image/logo.png)
 
 
