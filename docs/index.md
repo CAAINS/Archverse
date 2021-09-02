@@ -25,13 +25,13 @@ Archverse项目重建「消失的村落与文化」，此建造非重复，而�
 
 元宇宙概论：新世界的沉浸与创造
 
-![](https://github.com/GennyZHENG/Archverse/blob/main/docs/image/%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA%E5%85%AC%E5%BC%80%E8%AF%BE.png)
+![image alt](https://github.com/GennyZHENG/Archverse/blob/main/docs/image/%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA%E5%85%AC%E5%BC%80%E8%AF%BE.png)
 
 
 ***Archverse项目将持续招募！！！***
 
 不限专业背景、不限年龄（当然没有35岁的限制）、不限地域，向一切热忱、勇敢、智慧的网络世界好奇者开放。加入者将有机会参加虚拟空间开发（建模、交互等）免费课程，并获得网络社会研究所即将发行的Social Token。
-若有意加入我们成为志愿者，请将简历发送至 inetworksociety@gmail.com,并注明你想参与的方式。
+若有意加入我们成为志愿者，请将简历发送至 ==inetworksociety@gmail.com== ,并注明你想参与的方式。
 或许......❗👀
 虽然时间不允许，但你仍希望以赞助方式支持我们。那么，你将至少享有（也许你也不在乎拉~）未来所有计划的VIP尊荣通道的权利。
 请用这个网址捐赠：archverse.eth （加密钱包网址）
