@@ -33,12 +33,15 @@
 
 ## 项目发起与执行
 
+![image alt](https://raw.githubusercontent.com/GennyZHENG/Archverse/main/docs/image/logo.png)
+
 🔘 中国美术学院 **网络社会研究所** 及 **空间生产与乡土实践研究组**
+
 🔘 **幻境实验室MetaverseLabs** 及 **幻境小组MetaDAO**
 
 🏃‍ 访问 [项目发起组织简介](https://gennyzheng.github.io/Archverse/organization)
 
-![image alt](https://raw.githubusercontent.com/GennyZHENG/Archverse/main/docs/image/logo.png)
+
 
 
 
