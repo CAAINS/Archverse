@@ -37,7 +37,7 @@ Archverse项目重建「消失的村落与文化」，此建造非重复，而�
 
 以及！**🙌 加入我们的社群吧！** [Discord 社群](https://discord.gg/rBdy8BN3WF)
 
-![](https://github.com/GennyZHENG/Archverse/blob/main/docs/image/dcl.jpg)
+![image alt](https://raw.githubusercontent.com/GennyZHENG/Archverse/main/docs/image/dcl.jpg)
 
 
 ## 项目发起与执行
