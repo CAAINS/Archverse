@@ -18,5 +18,3 @@ MetaDao https://metadao.org
 
 Meteverse Lab https://metaverselabs.com
 幻境实验室成立于2018年，是一个专注于Metaverse（元宇宙）领域的开发团队，致力于为未来的虚拟世界公民建造一个开放包容的虚拟家园。团队目前在Decentralnd虚拟世界平台开发运营龙城社区，同时也正在其他兴起的虚拟世界概念项目进行布局和实践。创建MetaDAO（幻境小组）并提供支持，召集所有对虚拟世界感兴趣的朋友，希望和大家共同创立一个由社区驱动的去中心化自治组织，一起向着Metaverse世界前进。
-
-
