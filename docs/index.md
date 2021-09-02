@@ -28,7 +28,7 @@ Archverse项目重建「消失的村落与文化」，此建造非重复，而�
 ![](https://github.com/GennyZHENG/Archverse/blob/main/docs/image/%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA%E5%85%AC%E5%BC%80%E8%AF%BE.png)
 
 
-👩‍💻👨‍💻 ***Archverse项目将持续招募志愿者！！！*** 👩‍💻👨‍💻
+## 👩‍💻👨‍💻 Archverse项目将持续招募志愿者！！！👩‍💻👨‍💻
 
 不限专业背景、不限年龄（当然没有35岁的限制）、不限地域，向一切热忱、勇敢、智慧的网络世界好奇者开放。加入者将有机会参加虚拟空间开发（建模、交互等）免费课程，并获得网络社会研究所即将发行的Social Token。若有意加入我们成为志愿者，请将简历发送至 ++inetworksociety@gmail.com++ ，并注明你想参与的方式。
 
