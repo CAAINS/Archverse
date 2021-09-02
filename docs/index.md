@@ -18,21 +18,25 @@ Archverse项目重建「消失的村落与文化」，此建造非重复，而�
 
 中国美术学院空间生产与乡土实践研究组主办的“乡建中国思想展”中，由策展团队委托幻境小组(MetaDAO)利用去中心化网络平台 Decentraland 重现 1930-1940 年代的北碚城市风貌计划作为本次项目的雏形。Archverse 项目将从北碚开始，在元宇宙中重现消失村庄的历史样貌与曾发生着的动人故事，将历史液态化，成为流动的、交互的、并具有开创性的实践，一部「现在史」的分枝(fork）。
 
+🏃‍ 访问 [Decentraland.北碚](https://beibei.city)
+
 
 ## 近期活动
-
 
 元宇宙概论：新世界的沉浸与创造
 
 ![](https://github.com/GennyZHENG/Archverse/blob/main/docs/image/%E5%85%83%E5%AE%87%E5%AE%99%E6%A6%82%E8%AE%BA%E5%85%AC%E5%BC%80%E8%AF%BE.png)
 
 
+***Archverse项目将持续招募！！！***
 
+不限专业背景、不限年龄（当然没有35岁的限制）、不限地域，向一切热忱、勇敢、智慧的网络世界好奇者开放。加入者将有机会参加虚拟空间开发（建模、交互等）免费课程，并获得网络社会研究所即将发行的Social Token。
+若有意加入我们成为志愿者，请将简历发送至 inetworksociety@gmail.com,并注明你想参与的方式。
+或许......❗👀
+虽然时间不允许，但你仍希望以赞助方式支持我们。那么，你将至少享有（也许你也不在乎拉~）未来所有计划的VIP尊荣通道的权利。
+请用这个网址捐赠：archverse.eth （加密钱包网址）
 
-🙌 加入我们的社群吧！[Discord 社群](https://discord.gg/rBdy8BN3WF)
-
-🏃‍ 访问[Decentraland.北碚](https://beibei.city)
-
+以及！🙌 加入我们的社群吧！[Discord 社群](https://discord.gg/rBdy8BN3WF)
 
 
 
@@ -48,19 +52,19 @@ Archverse项目重建「消失的村落与文化」，此建造非重复，而�
 
 在中国城市化进程中直面中国当代城乡发展的社会现实，以立足当下、扎根“乡土”的思想视野和文化实践，梳理中国乡土社会档案，探究国人优秀传统生活方式、情感结构和风俗伦理的持存、发展和现代性转换，推动中国传统文明精华的当代活化和国际优秀文化的本土转化，推动本土空间的营造以及乡土文化的重建，建立立足“乡土”的民学。中国乡土社会研究(空间生产与乡土实践) 方向依托跨学科优势，力求推动空间生产、文化规划与文化展演的深度融合;致力于为当代中国的城市更新、城乡营造、媒介创新和文化展演领域。
 
-🏃‍ 访问[FromTheSoil 公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyNDgyNDQ3MA==&scene=124#wechat_redirect)
+🏃‍ 访问 [FromTheSoil 公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyNDgyNDQ3MA==&scene=124#wechat_redirect)
 
 **幻境实验室 MetaverseLabs**
 
 幻境实验室成立于2018年，是一个专注于Metaverse(元宇宙)领域的开发团队，致力于为未来的虚拟世界公民建造一个开放包容的虚拟家园。团队目前在Decentralnd虚拟世界平台开发运营龙城社区，同时也正在其他兴起的虚拟世界概念项目进行布局和实践。创建MetaDAO(幻境小组)并提供支持，召集所有对虚拟世界感兴趣的朋友，希望和大家共同创立一个由社区驱动的去中心化自治组织，一起向着Metaverse世界前进。
 
-🏃‍ 访问[MetaverseLabs 公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU1NTY0OTg0MQ==&scene=124#wechat_redirect)
+🏃‍ 访问 [MetaverseLabs 主页](metaverselabs.com)
 
 **幻境小组 MetaDAO**
 
 幻境小组(MetaDAO) 由幻境实验室(Metaverse Labs)支持，由密码朋克，艺术家，建筑师，程序员，区块链爱好者，游戏爱好者等自发组成的DAO组织(去中心化自治组织)。幻境小组的组建基于我们对网络独立宣言，开源文化和密码朋克的思想进行延申，对虚拟世界与现实世界的交织进行深刻的探索。我们认为当下世界已经由现实世界和虚拟世界组成，现实世界是指不需要设备或人工技术即可访问的世界，虚拟世界是指需要借助特定设备或技术来访问的世界。姑且以访问途径来区分现实世界与虚拟世界，同时随着技术发展，两个世界的边界正互相渗透甚至边界将变得模糊。基于对未来人类所栖息的虚拟世界进行探索，我们通过尝试一系列的实验作品来阐述我们的对这个主题的理解。建立小组的目的是希望可以吸引到对Metaverse主题有兴趣的伙伴进行交流，探讨。我们通过阅读书籍论文，实验，制作项目的形式，作为这个时代的一份子对未来虚拟世界做出贡献。
 
-🏃‍ 访问[MetaDAO 主页](https://metadao.org/)
+🏃‍ 访问 [MetaDAO 主页](https://metadao.org/)
 
 
 
