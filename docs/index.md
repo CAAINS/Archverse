@@ -59,4 +59,3 @@
 
 ![image alt](https://raw.githubusercontent.com/GennyZHENG/Archverse/main/docs/image/logo.png)
 
-
