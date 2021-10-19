@@ -22,7 +22,7 @@ Arch的希腊文原意指的是开始、起源、统治、标准，后来才成�
 * 進入Decentraland 北碚模型：https://play.decentraland.org/?position=125%2C-44&realm=fenrir-amber
 
 
-# 发起组织
+## 发起组织
 * 中国美院网络社会研究所 https://caa-ins.org  | 中国高校第一所结合艺术、科技、社会学、技术哲学的研究所。
 
 * MetaDao https://metadao.org | 幻境小组（MetaDAO) 由幻境实验室（Metaverse Labs）支持，由密码朋克，艺术家，建筑师，程序员，区块链爱好者，游戏爱好者等自发组成的DAO组织（去中心化自治组织）。幻境小组的组建基于我们对网络独立宣言，开源文化和密码朋克的思想进行延申，对虚拟世界与现实世界的交织进行深刻的探索。我们认为当下世界已经由现实世界和虚拟世界组成，现实世界是指不需要设备或人工技术即可访问的世界，虚拟世界是指需要借助特定设备或技术来访问的世界。姑且以访问途径来区分现实世界与虚拟世界，同时随着技术发展，两个世界的边界正互相渗透甚至边界将变得模糊。基于对未来人类所栖息的虚拟世界进行探索，我们通过尝试一系列的实验作品来阐述我们的对这个主题的理解。建立小组的目的是希望可以吸引到对Metaverse主题有兴趣的伙伴进行交流，探讨。我们通过阅读书籍论文，实验，制作项目的形式，作为这个时代的一份子对未来虚拟世界做出贡献。
@@ -30,9 +30,11 @@ Arch的希腊文原意指的是开始、起源、统治、标准，后来才成�
 * Meteverse Lab https://metaverselabs.com | 幻境实验室成立于2018年，是一个专注于Metaverse（元宇宙）领域的开发团队，致力于为未来的虚拟世界公民建造一个开放包容的虚拟家园。团队目前在Decentralnd虚拟世界平台开发运营龙城社区，同时也正在其他兴起的虚拟世界概念项目进行布局和实践。创建MetaDAO（幻境小组）并提供支持，召集所有对虚拟世界感兴趣的朋友，希望和大家共同创立一个由社区驱动的去中心化自治组织，一起向着Metaverse世界前进。
 
 
-# 志願者
+## 志願者
 
 永遠招募志願者中，加入我們的discord: [https://discord.gg/AFwy72RpnZ](https://discord.gg/AFwy72RpnZ)
+
+## 進行中的計畫
 
 - [北碚](https://roamresearch.com/#/app/PlotTheSoil/page/NX-mLJzAY)復現計畫 [Decentraland](https://play.decentraland.org/?position=125%2C-44&realm=fenrir-amber)
   - 建筑故事
